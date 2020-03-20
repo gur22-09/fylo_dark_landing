@@ -1,2 +1,5 @@
-# fylo_dark_landing
-landing page designed for Fylo 
+A mobile responsive landing page with HTML and CSS. It uses a lot of Flex Box in the styling.
+
+Developer: PJ Mantoss
+
+Date: 4th March, 2020
